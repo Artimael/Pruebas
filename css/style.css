@@ -1,0 +1,33 @@
+
+/*Archivo 3 DIVS */
+#container
+{
+    width:100%;
+    text-align:center;
+}
+
+#left
+{
+    background-color: aqua;
+    width:100px;
+    height: 20px;
+    float: left;
+}
+
+#center
+{
+    background-color: crimson;
+    width:100px;
+    height: 20px;
+    display: inline-block;
+}
+
+#right
+{
+    background-color:darkgreen;
+    width:100px;
+    height: 20px;
+    float: right;
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
